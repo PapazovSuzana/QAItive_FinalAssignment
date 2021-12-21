@@ -5,37 +5,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1dcf65-a76c-4e94-b069-e0a169e39075" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Runner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/ChromeDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/DriverManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/FirefoxDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0f58b529-7396-451e-bced-b8fa691d9f82-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/12c76595-fc0c-4add-b16b-34240597d10a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1adaf0df-a084-4271-a0dc-3a97fc5b2651-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/55a289a3-585d-470d-8ff0-e28ffd7634eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c56cc11-f6cb-4818-8612-c213b72666e2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c956347-e4f2-472e-90fc-98d0d5b6c786-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68209ea8-5afb-4185-acc9-bd25588e1f4e-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a6d676d-4721-49cd-a004-e22cf66e1240-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f4d8bfe-a653-4796-b788-4c90f8072de7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/85121b66-2f94-4387-8588-843e733b83b7-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4eefbc3-e0c9-4e19-b7b2-e9dc55dd2d4f-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c7cfef98-c558-4873-b1d5-c8a847f5f984-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640078876708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640085851037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640086034079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640086220687.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Booking.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BookingHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HotelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SearchResultsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/GeneralRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BookingSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Runner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="21jAlgSbP9Q7ZQfybaxDGnbBgTp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/features" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/features" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="steps" />
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GeneralRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QAItive_FinalAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.GeneralRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GeneralRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,5 +118,8 @@
       <updated>1638444285277</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

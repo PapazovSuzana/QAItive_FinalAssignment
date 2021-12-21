@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Gigatron - Sorting" data-provider-thread-count="1">
+<suite name="TestSuite" data-provider-thread-count="1">
     <parameter name="BROWSER" value="Chrome"/>
     <parameter name="BROWSER_VERSION" value="95"/>
-    <parameter name="WAIT_TIME" value="30"/>
+    <parameter name="WAIT_TIME" value="5"/>
 
-    <test name="Sort by price app">
+    <test name="Filling criteria">
         <classes>
-            <class name="runners.GeneralRunner"/>
+            <class name="tests.BaseTest"/>
         </classes>
     </test>
 

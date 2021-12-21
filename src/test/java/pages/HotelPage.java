@@ -16,9 +16,12 @@ public class HotelPage extends BasePage {
         PageFactory.initElements(driver, this);
     }
 
-    String hotelName = "//div[@data-testid='title' and contains(text(),'$')]";
+    String hotelName = "//a[@class = 'bui_breadcrumb__link_masked' and contains(text(), '$')]";
 
     public void validateOpenedHotel(String hotel) {
+        for (String childTab : driver.getWindowHandles()) {
+            driver.switchTo().window(childTab);
+        }
         driver.findElement(By.xpath(hotelName.replace("$", hotel))).isDisplayed();
 
 

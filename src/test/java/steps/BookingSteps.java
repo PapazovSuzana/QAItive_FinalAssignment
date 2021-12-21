@@ -24,7 +24,7 @@ public class BookingSteps extends BaseTest {
     @After
     public void tearDown() throws IOException {
         reportScreenshot("Test", "TestAllure");
-        quitDriver();
+        //quitDriver();
     }
 
 
@@ -96,5 +96,6 @@ public class BookingSteps extends BaseTest {
     public void validateThatHotelIsOpened(String hotel) {
         HotelPage hotelPage = new HotelPage(driver, wdWait);
         hotelPage.validateOpenedHotel(hotel);
+        System.out.println("Hotel is " + hotel);
     }
 }

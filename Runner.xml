@@ -2,6 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="TestSuite" data-provider-thread-count="1">
+    <parameter name="OS" value="Mac"/>
     <parameter name="BROWSER" value="Chrome"/>
     <parameter name="BROWSER_VERSION" value="95"/>
     <parameter name="WAIT_TIME" value="5"/>

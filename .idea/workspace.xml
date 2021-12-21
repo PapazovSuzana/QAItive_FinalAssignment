@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a1dcf65-a76c-4e94-b069-e0a169e39075" name="Changes" comment="">
+    <list default="true" id="8a1dcf65-a76c-4e94-b069-e0a169e39075" name="Changes" comment="Test for booking a hotel is added.">
+      <change afterPath="$PROJECT_DIR$/allure-results/054b0709-a785-4dcc-b2e3-2197a66c0348-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/0f58b529-7396-451e-bced-b8fa691d9f82-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/12c76595-fc0c-4add-b16b-34240597d10a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/143b8f33-c45a-44f2-8a18-e0a0ff9dbd03-attachment" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/1adaf0df-a084-4271-a0dc-3a97fc5b2651-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/55a289a3-585d-470d-8ff0-e28ffd7634eb-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/5c56cc11-f6cb-4818-8612-c213b72666e2-result.json" afterDir="false" />
@@ -15,23 +17,22 @@
       <change afterPath="$PROJECT_DIR$/allure-results/6a6d676d-4721-49cd-a004-e22cf66e1240-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/6f4d8bfe-a653-4796-b788-4c90f8072de7-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/85121b66-2f94-4387-8588-843e733b83b7-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/990b24bc-1069-4154-91d7-0b9e584780ab-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/a4eefbc3-e0c9-4e19-b7b2-e9dc55dd2d4f-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b142c5cc-f4c4-4103-b94f-5072254b69d4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b795d32c-b32d-4790-a8a9-8d0bfbac98a7-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/c7cfef98-c558-4873-b1d5-c8a847f5f984-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640078876708.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640085851037.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640086034079.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640086220687.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/Booking.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BookingHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HotelPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SearchResultsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/GeneralRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BookingSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screenshot/Test_1640086628993.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Runner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium_core/ChromeDriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium_core/ChromeDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/BookingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/BookingSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -117,9 +121,20 @@
       <option name="presentableId" value="Default" />
       <updated>1638444285277</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test for booking a hotel is added.">
+      <created>1640088812227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640088812227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Test for booking a hotel is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Test for booking a hotel is added." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

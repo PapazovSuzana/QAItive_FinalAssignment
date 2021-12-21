@@ -18,7 +18,7 @@ public class BookingSteps extends BaseTest {
 
     @Before
     public void initCucumber() {
-        init("Chrome", "95", 30);
+        init("Chrome", Integer.parseInt("5"));
     }
 
     @After
